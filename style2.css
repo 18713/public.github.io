@@ -1,0 +1,1584 @@
+.bbc{
+    height: 760px;
+    width: 260px;
+
+    margin-top: 10px;
+    background-color: #44EED0;
+ display: flex;
+ flex-wrap: wrap;
+}
+#button{
+  display: flex;
+ 
+ margin-left: 190px;
+ margin-top: -50px;
+}
+#but{
+  display: flex;
+ 
+ margin-left: 190px;
+ 
+}
+.boc{
+ height: 460px;
+  width: 40.6%;
+  margin-left: 18%;
+  margin-top: 3.6%;
+ background-color:  coral;;
+  
+}
+.in{
+  
+  margin-left: 10px;
+ border: none;
+ outline: none;
+ background: none;
+ 
+}
+.cb{
+  height: 560px;
+  width: 360px;
+  margin-left: 30px;
+  margin-top: 10px;
+  background-color: #44EED0;
+  
+}
+.bc{
+  height: 860px;
+  width: 360px;
+  margin-left: 30px;
+  margin-top: 40px;
+background-color: #44EED0;
+  
+}
+.fu{
+  margin-left: 30px;
+ 
+}
+.poop{
+    margin-left: 30px;
+
+}
+.lol{
+   
+    margin-left: 20px;
+    border: none;
+    outline: none;
+    background-color: bisque;
+   
+
+}
+.lll{
+    margin-left: 30px;
+}
+.ooo{
+  
+    margin-left: 20px;
+    
+    border: none;
+    outline: none;
+    background-color: bisque;
+    
+    
+   
+}
+.jjj{
+    margin-top: 20px;
+  margin-left: 20px;
+   
+ 
+    background-color: rgb(0, 255, 200);
+}
+.police{
+  text-align: start;
+  color: #9345EE;
+ 
+}
+
+
+/* style from todo app */
+
+.obc{
+    text-align: center;
+  
+
+    
+}
+.btn{
+    background-color: brown;
+}
+.edit{
+    background-color: chartreuse;
+}
+.pop{
+    margin-top:100px;
+    margin-left: 970px;
+}
+
+.make{
+    margin-left: 100px;
+    width: 600px;
+    height: 100px;
+    background-color: #EEEBF0;
+}
+
+/* remind */
+.uiu{
+  margin-left: 30px;
+}
+.mom{
+  margin-left: 120px;
+}
+.dad{
+  margin-left: 120px;
+}
+.sis{
+  margin-left: 120px;
+}
+.bro{
+  margin-left: 120px;
+}
+.sub{
+  margin-left: 120px;
+}
+/* another */
+.man{
+  margin-left: 30px;
+}
+.woman{
+  margin-left: 120px;
+}
+.child{
+  margin-left: 120px;
+}
+.sab{
+  margin-left: 120px;
+}
+.law{
+  margin-left: 120px;
+}
+.inlaw{
+  margin-left: 120px;
+}
+.fake{
+  margin-left: 400px;
+}
+.bad{
+  margin-left: 30px;
+   margin-top: 30px;
+}
+
+.obc{
+  margin-top: 50px;
+
+}
+.ui{
+  margin-left: 70px;
+}
+
+/* solve */
+
+.oppy{
+ 
+  width: 440px;
+  }
+  .mpp{
+ 
+    width: 440px;
+ 
+
+}
+.lpp{
+  
+  width: 440px;
+
+}
+/* solve again */
+.oppl{
+ 
+  width: 440px;
+  }
+  .mppo{
+ 
+    width: 440px;
+ 
+
+}
+.lppo{
+  
+  width: 440px;
+
+}
+
+
+
+
+      /* for responsive */
+      @media only screen and (max-width: 1400px) {
+  
+        .bbc{
+          width: 87.50%;
+         
+          
+          
+      }
+
+      @media only screen and (max-width: 1200px) {
+  
+        .bbc{
+          width: 75%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .bbc{
+          width: 56.25%;
+        
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .bbc{
+          width: 37.50%;
+          
+          
+      }
+      }
+     
+      @media only screen and (max-width: 100px) {
+        
+        .bbc{
+        width: 6.25%;
+          
+          
+      }
+    }
+    
+    @media only screen and (max-width: 1400px) {
+  
+        .poop{
+          width: 87.50%;;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 1200px) {
+        
+        .poop{
+          width: 75%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .poop{
+          width: 56.25%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .poop{
+          width: 37.50%;
+          
+          
+      }
+    }
+    @media only screen and (max-width: 100px) {
+        
+      .poop{
+        width: 6.25%;
+        
+        
+    }
+  }
+    
+    @media only screen and (max-width: 1400px) {
+  
+        .lol{
+          width: 87.50%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 1200px) {
+        
+        .lol{
+          width: 75%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .lol{
+          width: 56.25%;
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .lol{
+          width: 37.50%;
+          
+          
+      }
+    }
+    @media only screen and (max-width: 100px) {
+        
+      .lol{
+        width: 6.25%;
+        
+        
+    }
+  }
+       
+    @media only screen and (max-width: 1400px) {
+  
+        .lll{
+          width: 87.50%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 1200px) {
+        
+        .lll{
+          width: 75%;
+        
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .lll{
+          width: 56.25%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .lll{
+          width: 37.50%;
+          
+          
+      }
+    }
+    @media only screen and (max-width: 100px) {
+        
+      .lll{
+        width: 6.25%;
+        
+        
+    }
+  }
+       
+         
+    @media only screen and (max-width: 1400px) {
+  
+        .ooo{
+          width: 87.50%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 1200px) {
+        
+        .ooo{
+          width: 75%;
+        
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .ooo{
+          width: 56.25%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .ooo{
+          width: 37.50%;
+          
+          
+      }
+    }
+    @media only screen and (max-width: 100px) {
+        
+      .ooo{
+        width: 6.25%;
+        
+        
+    }
+  }
+    @media only screen and (max-width: 1400px) {
+  
+        .jjj{
+          width: 87.50%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 1200px) {
+        
+        .jjj{
+          width: 75%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .jjj{
+          width: 56.25%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .jjj{
+          width: 37.50%;
+          
+          
+      }
+    }
+    @media only screen and (max-width: 100px) {
+        
+      .jjj{
+        width: 6.25%;
+        
+        
+    }
+  }
+    @media only screen and (max-width: 1400px) {
+  
+        .obc{
+          width: 87.50%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 1200px) {
+        
+        .obc{
+          width: 75%;
+        
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .obc{
+          width: 56.25%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .obc{
+          width: 37.50%;
+          
+          
+      }
+    }
+    @media only screen and (max-width: 100px) {
+        
+      .obc{
+        width: 6.25%;
+        
+        
+    }
+  }
+  @media only screen and (max-width: 1400px) {
+  
+    .btn{
+      width: 87.50%;
+     
+      
+      
+  }
+  }
+    @media only screen and (max-width: 1200px) {
+  
+        .btn{
+          width: 75%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .btn{
+          width: 56.25%;
+        
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .btn{
+          width: 37.50%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 100px) {
+        
+        .btn{
+          width: 6.25%;
+          
+          
+      }
+    }
+    @media only screen and (max-width: 1400px) {
+  
+      .edit{
+        width: 87.50%;
+       
+        
+        
+    }
+    }
+    @media only screen and (max-width: 1200px) {
+  
+        .edit{
+          width: 75%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .edit{
+          width: 56.25%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .edit{
+          width: 37.50%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 100px) {
+        
+        .edit{
+          width: 6.25%;
+          
+          
+      }
+    }
+    @media only screen and (max-width: 1400px) {
+  
+        .pop{
+          width: 87.50%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 1200px) {
+        
+        .pop{
+          width: 75%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .pop{
+          width: 56.25%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+      
+        .pop{
+          width: 37.50%;
+          
+          
+      }
+      }
+      @media only screen and (max-width: 100px) {
+        
+        .pop{
+          width: 6.25%;
+          
+          
+      }
+    }
+  
+  @media only screen and (max-width: 1400px) {
+    
+    .make{
+      width: 87.50%;
+    
+      
+      
+  }
+  }
+  @media only screen and (max-width: 1200px) {
+    
+    .make{
+      width: 75%;
+      
+      
+  }
+  }
+  @media only screen and (max-width: 900px) {
+    
+    .make{
+      width: 56.25%;
+      
+      
+  }
+}
+@media only screen and (max-width: 600px) {
+    
+  .make{
+    width: 37.50%;
+    
+    
+}
+}
+@media only screen and (max-width: 100px) {
+    
+  .make{
+    width: 6.25%;
+    
+    
+}
+}
+      }
+      @media only screen and (max-width: 1400px) {
+  
+        .police{
+          width: 87.50%;
+         
+          
+          
+      }
+
+      @media only screen and (max-width: 1200px) {
+  
+        .police{
+          width: 75%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .police{
+          width: 56.25%;
+        
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .police{
+          width: 37.50%;
+          
+          
+      }
+      }
+     
+      @media only screen and (max-width: 100px) {
+        
+        .police{
+        width: 6.25%;
+          
+          
+      }
+    }
+  }
+  @media only screen and (max-width: 1400px) {
+  
+    .uiu{
+      width: 87.50%;
+     
+      
+      
+  }
+
+  @media only screen and (max-width: 1200px) {
+
+    .uiu{
+      width: 75%;
+     
+      
+      
+  }
+  }
+  @media only screen and (max-width: 900px) {
+    
+    .uiu{
+      width: 56.25%;
+    
+      
+      
+  }
+  }
+  @media only screen and (max-width: 600px) {
+    
+    .uiu{
+      width: 37.50%;
+      
+      
+  }
+  }
+ 
+  @media only screen and (max-width: 100px) {
+    
+    .uiu{
+    width: 6.25%;
+      
+      
+  }
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .mom{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .mom{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .mom{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .mom{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .mom{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .dad{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .dad{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .dad{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .dad{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .dad{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .sis{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .sis{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .sis{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .sis{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .sis{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .bro{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .bro{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .bro{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .bro{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .bro{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .sub{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .sub{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .sub{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .sub{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .sub{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .man{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .man{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .man{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .man{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .man{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .woman{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .woman{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .woman{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .woman{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .woman{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .child{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .child{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .child{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .child{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .child{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .sab{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .sab{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .sab{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .sab{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .sab{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .law{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .law{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .law{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .law{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .law{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .inlaw{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .inlaw{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .inlaw{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .inlaw{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .inlaw{
+  width: 6.25%;
+    
+    
+}
+}
+}
+@media only screen and (max-width: 1400px) {
+  
+  .fake{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .fake{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .fake{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .fake{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .fake{
+  width: 6.25%;
+    
+    
+}
+}
+}
+.bad{
+  width: 87.50%;
+ 
+  
+  
+}
+
+@media only screen and (max-width: 1200px) {
+
+.bad{
+  width: 75%;
+ 
+  
+  
+}
+}
+@media only screen and (max-width: 900px) {
+
+.bad{
+  width: 56.25%;
+
+  
+  
+}
+}
+@media only screen and (max-width: 600px) {
+
+.bad{
+  width: 37.50%;
+  
+  
+}
+}
+
+@media only screen and (max-width: 100px) {
+
+.bad{
+width: 6.25%;
+  
+  
+}
+ /* for responsive */
+ @media only screen and (max-width: 1400px) {
+  
+  .obc{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .obc{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .obc{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .obc{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .obc{
+  width: 6.25%;
+    
+    
+}
+}}
+ /* for responsive */
+ @media only screen and (max-width: 1400px) {
+  
+  .ui{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .ui{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .ui{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .ui{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .ui{
+  width: 6.25%;
+    
+    
+}
+}}
+  /* for responsive */
+  @media only screen and (max-width: 1400px) {
+  
+    .fu{
+      width: 87.50%;
+     
+      
+      
+  }
+
+  @media only screen and (max-width: 1200px) {
+
+    .fu{
+      width: 75%;
+     
+      
+      
+  }
+  }
+  @media only screen and (max-width: 900px) {
+    
+    .fu{
+      width: 56.25%;
+    
+      
+      
+  }
+  }
+  @media only screen and (max-width: 600px) {
+    
+    .fu{
+      width: 37.50%;
+      
+      
+  }
+  }
+ 
+  @media only screen and (max-width: 100px) {
+    
+    .fu{
+    width: 6.25%;
+      
+      
+  }
+}}
+ /* for responsive */
+ @media only screen and (max-width: 1400px) {
+  
+  .bc{
+    width: 87.50%;
+   
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .bc{
+    width: 75%;
+   
+    
+    
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .bc{
+    width: 56.25%;
+  
+    
+    
+}
+}
+@media only screen and (max-width: 600px) {
+  
+  .bc{
+    width: 37.50%;
+    
+    
+}
+}
+
+@media only screen and (max-width: 100px) {
+  
+  .bc{
+  width: 6.25%;
+    
+    
+}
+}
+
+ }
+ 
+
+
+      /* for responsive */
+      @media only screen and (max-width: 1400px) {
+  
+        .boc{
+          width: 87.50%;
+         
+          
+          
+      }
+
+      @media only screen and (max-width: 1200px) {
+  
+        .boc{
+          width: 75%;
+         
+          
+          
+      }
+      }
+      @media only screen and (max-width: 900px) {
+        
+        .boc{
+          width: 56.25%;
+        
+          
+          
+      }
+      }
+      @media only screen and (max-width: 600px) {
+        
+        .boc{
+          width: 37.50%;
+          
+          
+      }
+      }
+     
+      @media only screen and (max-width: 100px) {
+        
+        .boc{
+        width: 6.25%;
+          
+          
+      }
+    }
+      }}
+
+    
